@@ -1,0 +1,28 @@
+article{
+}
+section{
+  width: 70%;
+  border: solid black 1px;
+  padding: 10px;
+  clear: both;
+}
+
+img{
+  float: left;
+}
+
+html{
+  margin: 10px;
+}
+
+h2{
+  padding-left: 10px;
+}
+
+p{
+  padding-left: 10px;
+  float: left;
+}
+
+.likes{
+}
