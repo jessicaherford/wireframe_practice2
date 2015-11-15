@@ -1,14 +1,19 @@
 article{
+
 }
 section{
   width: 70%;
   border: solid black 1px;
   padding: 10px;
   clear: both;
+  box-sizing: border-box;
+  height: 180px;
+  margin: 20px;
 }
 
 img{
   float: left;
+  margin: 0px 20px 5px 0px;
 }
 
 html{
@@ -16,13 +21,18 @@ html{
 }
 
 h2{
-  padding-left: 10px;
+  margin-left: 20px;
 }
 
 p{
-  padding-left: 10px;
   float: left;
 }
 
 .likes{
+  margin-top: 40px;
+  display: inline;
+}
+
+.likeimg{
+  margin:10px;
 }
